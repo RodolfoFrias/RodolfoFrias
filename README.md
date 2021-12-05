@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for Globant as a NodeJS Developer
-- 🌱 I’m currently learning NuxtJS!
+- 🔭 I’m currently working for **[Globant](https://www.globant.com/es?utm_source=google&utm_medium=cpc&utm_campaign=mkt_lt_all_cpc_trf_cpc_05052021_tl1984_brand-esp)** as a NodeJS Developer
+- 🌱 I’m currently learning **[NuxtJS!](https://nuxtjs.org/)**
 - 👯 I’m looking to collaborate on whatever I guess...
 - 🤔 I’m looking for help with improving my english skills 🪓
 - 💬 Ask me about anime
